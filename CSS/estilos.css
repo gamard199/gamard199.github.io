@@ -1,0 +1,50 @@
+#Geocustom{
+	background-color:gray;
+}
+
+nav{
+	background-color:#130C40;
+	padding-top: 10px;
+	padding-bottom: 10px;
+}
+
+ul li{
+	display:inline;
+	padding-left: 45px;
+	color: #C4C2D0;
+	font-size:16px;
+
+}
+
+#barraLateral{
+	background-color:gray;
+	float:right;
+	height: 1100px; 
+	margin-top: 10px;
+}
+
+section{
+	padding-left: 15px;
+}
+
+footer{
+	background-color: #130C40;
+	padding-left:30px;
+	padding-top: 30px;
+	padding-bottom:30px;
+	color:#C4C2D0     
+}
+
+#logo{
+	float:left;
+	background-color: blue;
+}
+
+h1{
+	margin-left:250px; 
+}
+
+h1{
+	background-color:red; 
+}
+
