@@ -39,9 +39,19 @@ footer{
 	float:left;
 }
 
-h1{
-	margin-left:250px; 
+h1{text-align: center;
+	color: #130C40;
+	font-family:fantasy;
 }
 
+#video{
+	width:750px;
+	background:#C4C2D0;
+	padding:7px;
+	border: 2px solid #130C40;
+	"moz" border-radius:8px; 
+	"webkit" border-radius: 8px;
+	border-radius: 8px;
 
+}
 
